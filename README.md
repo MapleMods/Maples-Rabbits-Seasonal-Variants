@@ -1,9 +1,9 @@
-# Maple's Rabbit Collection
+# Maple's Rabbits | Seasonal Variants
 
-Minecraft 26.1.2 | Version 1.0
+Minecraft 26.1.2 | Version 2.0
 
 Download the mod here! :)
 
-CurseForge: https://legacy.curseforge.com/minecraft/mc-mods/maples-rabbit-collection
+CurseForge: https://curseforge.com/minecraft/mc-mods/maples-rabbits-seasonal-variants
 
-Modrinth: https://modrinth.com/mod/maples-rabbit-collection
+Modrinth: https://modrinth.com/mod/maples-rabbits-seasonal-variants
