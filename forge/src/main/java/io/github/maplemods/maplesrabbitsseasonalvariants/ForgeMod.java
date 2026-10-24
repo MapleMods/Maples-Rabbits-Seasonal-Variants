@@ -1,6 +1,6 @@
-package io.github.maplemods.maplesrabbitcollection;
+package io.github.maplemods.maplesrabbitsseasonalvariants;
 
-import io.github.maplemods.maplesrabbitcollection.data.Constants;
+import io.github.maplemods.maplesrabbitsseasonalvariants.data.Constants;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 

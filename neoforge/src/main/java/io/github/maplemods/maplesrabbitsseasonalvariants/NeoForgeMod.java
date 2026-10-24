@@ -1,7 +1,7 @@
-package io.github.maplemods.maplesrabbitcollection;
+package io.github.maplemods.maplesrabbitsseasonalvariants;
 
 
-import io.github.maplemods.maplesrabbitcollection.data.Constants;
+import io.github.maplemods.maplesrabbitsseasonalvariants.data.Constants;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.common.Mod;
 
